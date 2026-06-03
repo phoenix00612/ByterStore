@@ -1,0 +1,6 @@
+{
+  "startDate": "2026-06-03",
+  "nextDay": 2,
+  "totalDays": 15,
+  "note": "Automation reads nextDay and runs that day's tasks, then increments."
+}
